@@ -1,0 +1,21 @@
+{
+	"types": [{
+		"name": "Standard",
+		"type": "standard",
+		"maxNum": "12",
+		"hands": ["60","300","5"],
+		"source": "standard"
+	}, {
+		"name": "Decimal",
+		"type": "decimal",
+		"maxNum": "10",
+		"hands": ["10","10","1"],
+		"source": "decimal"
+	}, {
+		"name": "Silly",
+		"type": "silly",
+		"maxNum": "12",
+		"hands": ["60","300","300","5"],
+		"source": "standard"
+	}]
+}
